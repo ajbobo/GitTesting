@@ -12,14 +12,6 @@ Fourth
 Fifth
 
 Sixth
-
-Added to branch 1
-
-Stuff after Sixth
-
-More Stuff
-
-Gonna be a problem here
+<Deleted stuff>
 
 
-This is the end of the file
